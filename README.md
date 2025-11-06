@@ -1,45 +1,83 @@
-# Hi, I'm umar ali 👋
+Hi, I'm Umar Ali 👋
 
-I'm a passionate **Web Developer** with expertise in building modern, responsive, and user-friendly web applications. I love turning ideas into reality through clean and efficient code. My skills span across frontend and backend development, and I enjoy working with the latest technologies to create seamless digital experiences.
+I'm a passionate Web & Mobile Developer who loves crafting modern, responsive, and interactive digital experiences. I specialize in frontend development and have a growing interest in cross-platform mobile apps using React Native.
+My goal is to build smooth, scalable, and visually appealing applications that deliver great user experiences.
 
-## 🛠️ Skills
+🛠️ Skills
+💻 Frontend Development
 
-- **Frontend Development**: HTML, CSS, JavaScript, React
-- **CSS Frameworks**: Bootstrap, Tailwind CSS
-- **Backend Development**: Node.js
-- **Version Control**: Git, GitHub
-- **Tools**: VS Code, npm, Postman
+HTML, CSS, JavaScript (ES6+), React.js
 
-## 🚀 Projects
+Next.js, React Router, Context API
 
-Here are some of the projects I've worked on:
+Responsive UI design with animations and Lottie integration
 
-1. **PORT-FOLIO https://umar942.github.io/port-folio-upg/**  
-   - Technologies used: HTML, CSS, JavaScript, React
-## 🌱 What I'm Learning
+🎨 Styling & Frameworks
 
-I'm always expanding my skill set! Currently, I'm focusing on:
-- Advanced React concepts (e.g., Redux, Context API)
-- TypeScript
-- GraphQL
-- DevOps basics (Docker, CI/CD)
+Tailwind CSS, Bootstrap, Framer Motion, Shadcn/UI
 
-## 📫 Let's Connect
+⚙️ Backend Development
 
-I'm always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me:
+Node.js, Express.js
 
-- **Portfolio**: [Your Portfolio Link](https://umar942.github.io/port-folio-upg/)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/umar-ali-6501a2353)
-- **Email**: crazyop1982@.com
+RESTful APIs, MVC Architecture
 
+📱 Mobile Development
 
-## 📊 GitHub Stats
+React Native (Android + iOS cross-platform apps)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=umar942&show_icons=true&theme=dark)
+🧰 Tools & Workflow
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umar942&layout=compact&theme=dark&hide=)
+Git & GitHub
 
----
+VS Code, Postman, npm, Vite
 
-⭐️ Feel free to explore my repositories and don't forget to star the ones you like! ⭐️
+JSON, Axios, Zustand, TanStack Query (React Query)
 
+🚀 Projects
+
+PORT-FOLIO → View Live
+
+Tech Used: HTML, CSS, JavaScript, React
+
+A personal portfolio showcasing my projects, skills, and experience.
+
+Auth UI (React + Tailwind)
+
+Animated login/signup system with Lottie, dark mode, and success/error states.
+
+E-commerce API (Node.js + Express)
+
+REST API with filtering, sorting, and product management.
+
+Chat App (Socket.IO + React)
+
+Real-time chat app with typing indicators and online/offline status.
+
+🌱 What I'm Learning Next
+
+I'm constantly exploring new technologies to level up my development skills:
+
+🔷 Advanced React & State Management: Redux Toolkit, Zustand, React Query
+
+📱 React Native: Building mobile apps for Android & iOS
+
+⚡ TypeScript: For more robust and scalable apps
+
+🧠 GraphQL: API query language for efficient data fetching
+
+🐳 DevOps Basics: Docker, CI/CD pipelines
+
+☁️ Backend Expansion: MongoDB, Prisma, and authentication systems
+
+📫 Let's Connect
+
+I'm always open to collaborating on exciting projects or discussing new opportunities.
+
+Portfolio: umar942.github.io/port-folio-upg
+
+LinkedIn: linkedin.com/in/umar-ali-6501a2353
+
+Email: crazyop1982@gmail.com
+
+GitHub: github.com/UMAR942
