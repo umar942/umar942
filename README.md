@@ -64,9 +64,9 @@ I'm constantly exploring new technologies to level up my development skills:
 
 ⚡ TypeScript: For more robust and scalable apps
 
-🧠 GraphQL: API query language for efficient data fetching
+ GraphQL: API query language for efficient data fetching
 
-🐳 DevOps Basics: Docker, CI/CD pipelines
+ DevOps Basics: Docker, CI/CD pipelines
 
  Backend Expansion: MongoDB, Prisma, and authentication systems
 
