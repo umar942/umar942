@@ -35,7 +35,7 @@ VS Code, Postman, npm, Vite
 
 JSON, Axios, Zustand, TanStack Query (React Query)
 
-🚀 Projects
+ Projects
 
 PORT-FOLIO → View Live
 
