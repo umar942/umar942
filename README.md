@@ -68,9 +68,9 @@ I'm constantly exploring new technologies to level up my development skills:
 
 🐳 DevOps Basics: Docker, CI/CD pipelines
 
-☁️ Backend Expansion: MongoDB, Prisma, and authentication systems
+ Backend Expansion: MongoDB, Prisma, and authentication systems
 
-📫 Let's Connect
+ Let's Connect
 
 I'm always open to collaborating on exciting projects or discussing new opportunities.
 
