@@ -1,10 +1,10 @@
-Hi, I'm Umar Ali 👋
+Hi, I'm Umar Ali 
 
 I'm a passionate Web & Mobile Developer who loves crafting modern, responsive, and interactive digital experiences. I specialize in frontend development and have a growing interest in cross-platform mobile apps using React Native.
 My goal is to build smooth, scalable, and visually appealing applications that deliver great user experiences.
 
-🛠️ Skills
-💻 Frontend Development
+ Skills
+Frontend Development
 
 HTML, CSS, JavaScript (ES6+), React.js
 
@@ -12,21 +12,21 @@ Next.js, React Router, Context API
 
 Responsive UI design with animations and Lottie integration
 
-🎨 Styling & Frameworks
+ Styling & Frameworks
 
 Tailwind CSS, Bootstrap, Framer Motion, Shadcn/UI
 
-⚙️ Backend Development
+ Backend Development
 
 Node.js, Express.js
 
 RESTful APIs, MVC Architecture
 
-📱 Mobile Development
+ Mobile Development
 
 React Native (Android + iOS cross-platform apps)
 
-🧰 Tools & Workflow
+Tools & Workflow
 
 Git & GitHub
 
