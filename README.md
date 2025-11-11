@@ -54,15 +54,15 @@ Chat App (Socket.IO + React)
 
 Real-time chat app with typing indicators and online/offline status.
 
-🌱 What I'm Learning Next
+ What I'm Learning Next
 
 I'm constantly exploring new technologies to level up my development skills:
 
-🔷 Advanced React & State Management: Redux Toolkit, Zustand, React Query
+ Advanced React & State Management: Redux Toolkit, Zustand, React Query
 
-📱 React Native: Building mobile apps for Android & iOS
+ React Native: Building mobile apps for Android & iOS
 
-⚡ TypeScript: For more robust and scalable apps
+ TypeScript: For more robust and scalable apps
 
  GraphQL: API query language for efficient data fetching
 
