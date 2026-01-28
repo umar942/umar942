@@ -91,17 +91,17 @@
 
 ## 📊 GitHub Stats:
 <p align="center">
-    <img alt="Zaid Khan's Activity Graph" src="https://nirzak-streak-stats.vercel.app/?user=Zaid-Khan29&theme=tokyonight&hide_border=false" />
+    <img alt="Umar Ali's Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=UMAR942&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zaid-Khan29/github-readme-activity-graph">
-    <img alt="Zaid Khan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Zaid-Khan29&theme=tokyo-night&hide_border=true" />
+  <a href="https://github.com/UMAR942/github-readme-activity-graph">
+    <img alt="Umar Ali's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=UMAR942&theme=tokyo-night&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zaid-Khan29&theme=radical" alt="contribution-graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UMAR942&theme=radical" alt="contribution-graph" />
 </p>
 
 <div align="center">
@@ -126,4 +126,5 @@
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
 
