@@ -90,9 +90,7 @@
 </div>
 
 ## 📊 GitHub Stats:
-<p align="center">
-    <img alt="Umar Ali's Streak Stats" src="https://nirzak-streak-stats.vercel.app/?user=UMAR942&theme=tokyonight&hide_border=false" />
-</p>
+
 
 <p align="center">
   <a href="https://github.com/UMAR942/github-readme-activity-graph">
@@ -126,5 +124,6 @@
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
 
 
