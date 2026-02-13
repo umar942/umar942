@@ -34,10 +34,16 @@
   <a href="mailto:umarali40451@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
   <a href="https://linkedin.com/in/umar-ali-6501a2353">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  <a href="https://umar-ali-portfolio--crazyop1982.replit.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
+
 
 
 <div align="center">
@@ -123,6 +129,7 @@
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
 
 
 
