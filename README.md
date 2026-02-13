@@ -5,7 +5,7 @@
 <!-- typing -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;MERN%20Stack%20Specialist;Next.js%20Enthusiast;TypeScript%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Mern-Stack%20Developer;MERN%20Stack%20Specialist;Next.js%20Enthusiast;TypeScript%20Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
 
@@ -129,6 +129,7 @@
   <br>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
+
 
 
 
